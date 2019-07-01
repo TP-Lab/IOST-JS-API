@@ -1,5 +1,7 @@
 ## IOST Dapp
 
+- 更多可用的钱包相关特性 请查看 https://github.com/TP-Lab/tp-js-sdk
+- More API about TokenPocket, please check https://github.com/TP-Lab/tp-js-sdk
 
 
 ``` javascript
